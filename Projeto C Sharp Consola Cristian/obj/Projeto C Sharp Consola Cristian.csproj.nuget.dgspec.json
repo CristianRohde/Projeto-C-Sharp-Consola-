@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\C#\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian.csproj": {}
+  },
+  "projects": {
+    "G:\\C#\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\C#\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian.csproj",
+        "projectName": "Projeto C Sharp Consola Cristian",
+        "projectPath": "G:\\C#\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian.csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "G:\\C#\\Projeto C Sharp Consola Cristian\\Projeto C Sharp Consola Cristian\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

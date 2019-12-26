@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Projeto C Sharp Consola Cristian/1.0.0": {
+        "runtime": {
+          "Projeto C Sharp Consola Cristian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto C Sharp Consola Cristian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

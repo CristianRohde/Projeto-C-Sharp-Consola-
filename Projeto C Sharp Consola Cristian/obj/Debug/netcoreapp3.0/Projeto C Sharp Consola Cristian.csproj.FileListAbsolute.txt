@@ -1,0 +1,11 @@
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\bin\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.exe
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\bin\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.deps.json
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\bin\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.runtimeconfig.json
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\bin\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.runtimeconfig.dev.json
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\bin\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.dll
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\bin\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.pdb
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\obj\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.csprojAssemblyReference.cache
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\obj\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.AssemblyInfoInputs.cache
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\obj\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.AssemblyInfo.cs
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\obj\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.dll
+G:\C#\Projeto C Sharp Consola Cristian\Projeto C Sharp Consola Cristian\obj\Debug\netcoreapp3.0\Projeto C Sharp Consola Cristian.pdb
